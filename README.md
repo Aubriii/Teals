@@ -6,7 +6,7 @@
 We can create "enumerated lists" (numbered lists)! Three things we'll look at:
 1. How to use git
 2. How to use markdown for READMEs and the wiki
-3. How to use HTML?CSS in Jekyll for pages
+3. How to use HTML/CSS in Jekyll for pages
 
 We can
 ## Level 2 Heading
